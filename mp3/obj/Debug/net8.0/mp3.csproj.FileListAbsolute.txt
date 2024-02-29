@@ -1,0 +1,14 @@
+C:\Users\Patrik\Desktop\mp3\mp3\bin\Debug\net8.0\mp3.exe
+C:\Users\Patrik\Desktop\mp3\mp3\bin\Debug\net8.0\mp3.deps.json
+C:\Users\Patrik\Desktop\mp3\mp3\bin\Debug\net8.0\mp3.runtimeconfig.json
+C:\Users\Patrik\Desktop\mp3\mp3\bin\Debug\net8.0\mp3.dll
+C:\Users\Patrik\Desktop\mp3\mp3\bin\Debug\net8.0\mp3.pdb
+C:\Users\Patrik\Desktop\mp3\mp3\obj\Debug\net8.0\mp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\Desktop\mp3\mp3\obj\Debug\net8.0\mp3.AssemblyInfoInputs.cache
+C:\Users\Patrik\Desktop\mp3\mp3\obj\Debug\net8.0\mp3.AssemblyInfo.cs
+C:\Users\Patrik\Desktop\mp3\mp3\obj\Debug\net8.0\mp3.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\mp3\mp3\obj\Debug\net8.0\mp3.dll
+C:\Users\Patrik\Desktop\mp3\mp3\obj\Debug\net8.0\refint\mp3.dll
+C:\Users\Patrik\Desktop\mp3\mp3\obj\Debug\net8.0\mp3.pdb
+C:\Users\Patrik\Desktop\mp3\mp3\obj\Debug\net8.0\mp3.genruntimeconfig.cache
+C:\Users\Patrik\Desktop\mp3\mp3\obj\Debug\net8.0\ref\mp3.dll
