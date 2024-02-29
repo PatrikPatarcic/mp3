@@ -1,2 +1,2 @@
 # mp3
-Only for your eyes
+Trying to implement MVC pattern in a simple mp3 player.
